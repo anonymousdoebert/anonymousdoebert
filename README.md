@@ -12,5 +12,5 @@
   ______
   
 <p align="center">
-  <img src="(https://i.pinimg.com/avif/1200x/d3/a5/01/d3a501df5c49d6e2b01a764f0569e4b7.avf)" alt="end." width="400"/>
+  <img src=(https://i.pinimg.com/avif/1200x/d3/a5/01/d3a501df5c49d6e2b01a764f0569e4b7.avf) alt="end." width="400"/>
 </p>

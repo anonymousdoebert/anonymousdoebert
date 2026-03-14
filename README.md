@@ -11,6 +11,6 @@
   ###### I do not have a DNI list, IWC + I block freely.
   ______
   
-<p align="center">
-  <img src=(https://i.pinimg.com/avif/1200x/d3/a5/01/d3a501df5c49d6e2b01a764f0569e4b7.avf) alt="end." width="400"/>
-</p>
+<div style="text-align:center">
+  <img src="[https://your-image-source.com](https://i.pinimg.com/avif/1200x/d3/a5/01/d3a501df5c49d6e2b01a764f0569e4b7.avf)" />
+</div>

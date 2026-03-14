@@ -6,10 +6,11 @@
 <dl>
   <dt>﹕⠀⠀( ྀིᴗ͈ . ᴗ͈ ྀི) Jxxx Doe.ㅤ</dt>
   <dd>Hello. You may call me John, Jane or Anon Doe. My personality shifts depending on whoever I interact with.</dd>
-  ```Do not fear me. ```
+  
+  `Do not fear me. `
 
   ###### I do not have a DNI list, IWC + I block freely.
   ______﻿
-<div align="center">
+<p align="center">
 ![end.](https://i.pinimg.com/avif/1200x/d3/a5/01/d3a501df5c49d6e2b01a764f0569e4b7.avf)
-</div>
+</p>

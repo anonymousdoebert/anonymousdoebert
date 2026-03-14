@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shippori+Mincho&size=45&pause=1000&color=878787&center=true&width=1200&height=100&lines=The+user+you're+seeing+is+nobody+special.;Just+eternally+Jane+Doe.)](https://git.io/typing-svg)
 
 <dl>
-  <dt>﹕⠀⠀( ྀིᴗ͈ . ᴗ͈ ྀི) Jxxx Doe.ㅤ</dt>
+  <dt> 𝄄︵⠀( ྀིᴗ͈ . ᴗ͈ ྀི) Jxxx Doe.ㅤ</dt>
   <dd>Hello. You may call me John, Jane or Anon Doe. My personality shifts depending on whoever I interact with.</dd>
   
  `Do not fear me. `

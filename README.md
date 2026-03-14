@@ -1,1 +1,1 @@
-![Alt text]([[image-url](https://media.discordapp.net/attachments/1209759408603660331/1482244728866078840/xhtku0AAAAGSURBVAMAPtHDgsm83XoAAAAASUVORK5CYII.png?ex=69b63f7a&is=69b4edfa&hm=fa1e6c2d9b2bad894f940fa6b356dea50bdd036340e3bc76fad74f2e41344927&=&format=webp&quality=lossless](https://i.pinimg.com/avif/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.avf)))
+![Alt text](https://i.pinimg.com/avif/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.avf)
